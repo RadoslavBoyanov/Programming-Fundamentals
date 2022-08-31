@@ -1,0 +1,2 @@
+# Programming-Fundamentals
+ Fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Compared to Programming Basics, I have used more complex programming concepts and structures such as: arrays, sheets, citizen objects and classes. I have studied additional technologies that every software developer needs, such as HTML and CSS, HTTP, bit operations, and more.
