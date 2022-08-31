@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.exe
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.deps.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.runtimeconfig.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.runtimeconfig.dev.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.pdb
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.AssemblyInfo.cs
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\refint\05. Messages.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.pdb
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.genruntimeconfig.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\net5.0\ref\05. Messages.dll

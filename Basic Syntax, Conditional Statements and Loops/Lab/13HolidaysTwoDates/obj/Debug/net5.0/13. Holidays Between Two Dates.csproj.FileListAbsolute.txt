@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.exe
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.deps.json
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.dll
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\ref\13. Holidays Between Two Dates.dll
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\bin\Debug\net5.0\13. Holidays Between Two Dates.pdb
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.dll
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\ref\13. Holidays Between Two Dates.dll
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.pdb
+C:\Users\user\source\repos\01. Student Information\13. Holidays Between Two Dates\obj\Debug\net5.0\13. Holidays Between Two Dates.genruntimeconfig.cache

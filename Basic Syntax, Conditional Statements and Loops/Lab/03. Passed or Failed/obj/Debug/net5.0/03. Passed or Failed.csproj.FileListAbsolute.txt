@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.exe
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.deps.json
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.runtimeconfig.json
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.runtimeconfig.dev.json
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.dll
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\ref\03. Passed or Failed.dll
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.pdb
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.AssemblyInfo.cs
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.dll
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\ref\03. Passed or Failed.dll
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.pdb
+C:\Users\user\source\repos\01. Student Information\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.genruntimeconfig.cache

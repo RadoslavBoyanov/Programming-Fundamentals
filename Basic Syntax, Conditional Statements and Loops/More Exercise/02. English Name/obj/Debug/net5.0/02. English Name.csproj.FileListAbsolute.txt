@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.exe
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.deps.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.runtimeconfig.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.runtimeconfig.dev.json
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\bin\Debug\net5.0\02. English Name.pdb
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.AssemblyInfo.cs
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\refint\02. English Name.dll
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.pdb
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\02. English Name.genruntimeconfig.cache
+C:\Users\user\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02. English Name\obj\Debug\net5.0\ref\02. English Name.dll

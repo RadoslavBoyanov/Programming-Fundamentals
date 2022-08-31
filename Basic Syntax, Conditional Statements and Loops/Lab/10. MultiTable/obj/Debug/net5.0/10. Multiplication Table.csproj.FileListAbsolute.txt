@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\ref\10. Multiplication Table.dll
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\user\source\repos\01. Student Information\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache
