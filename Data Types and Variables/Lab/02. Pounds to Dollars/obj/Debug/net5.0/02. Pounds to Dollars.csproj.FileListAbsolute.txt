@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\refint\02. Pounds to Dollars.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll

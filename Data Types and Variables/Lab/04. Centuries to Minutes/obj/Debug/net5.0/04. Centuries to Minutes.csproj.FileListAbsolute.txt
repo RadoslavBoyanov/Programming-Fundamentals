@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\refint\04. Centuries to Minutes.dll
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache
+C:\Users\user\source\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll
