@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.exe
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.deps.json
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.dll
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\bin\Debug\net5.0\EqualSum.pdb
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.dll
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\refint\EqualSum.dll
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.pdb
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\EqualSum.genruntimeconfig.cache
+C:\Users\user\source\repos\ExerciseArrays\EqualSum\obj\Debug\net5.0\ref\EqualSum.dll

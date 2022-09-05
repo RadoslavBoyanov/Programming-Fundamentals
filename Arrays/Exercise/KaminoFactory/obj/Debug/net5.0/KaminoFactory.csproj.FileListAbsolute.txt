@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.exe
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.deps.json
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.dll
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.pdb
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.dll
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\refint\KaminoFactory.dll
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.pdb
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.genruntimeconfig.cache
+C:\Users\user\source\repos\ExerciseArrays\KaminoFactory\obj\Debug\net5.0\ref\KaminoFactory.dll
