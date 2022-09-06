@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.exe
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.deps.json
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.dll
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\bin\Debug\net5.0\MultiplyEvensbyOdds.pdb
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.dll
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\refint\MultiplyEvensbyOdds.dll
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.pdb
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\MultiplyEvensbyOdds.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\MultiplyEvensbyOdds\obj\Debug\net5.0\ref\MultiplyEvensbyOdds.dll

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.exe
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.deps.json
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.runtimeconfig.json
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.dll
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\bin\Debug\net5.0\SignofIntegerNumbers.pdb
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.dll
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\refint\SignofIntegerNumbers.dll
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.pdb
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\SignofIntegerNumbers.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\SignofIntegerNumbers\obj\Debug\net5.0\ref\SignofIntegerNumbers.dll

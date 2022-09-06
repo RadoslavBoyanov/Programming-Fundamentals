@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.exe
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.deps.json
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.json
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.dll
+C:\Users\user\source\repos\methods\RepeatString\bin\Debug\net5.0\RepeatString.pdb
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.dll
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\refint\RepeatString.dll
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.pdb
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\RepeatString.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\RepeatString\obj\Debug\net5.0\ref\RepeatString.dll
