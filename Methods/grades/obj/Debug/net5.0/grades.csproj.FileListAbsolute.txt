@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.exe
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.deps.json
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.runtimeconfig.json
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.dll
+C:\Users\user\source\repos\methods\grades\bin\Debug\net5.0\grades.pdb
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.dll
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\refint\grades.dll
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.pdb
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\grades.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\grades\obj\Debug\net5.0\ref\grades.dll

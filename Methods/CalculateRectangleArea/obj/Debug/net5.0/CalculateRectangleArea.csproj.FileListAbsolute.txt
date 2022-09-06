@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.exe
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.deps.json
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\user\source\repos\methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\refint\CalculateRectangleArea.dll
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\CalculateRectangleArea\obj\Debug\net5.0\ref\CalculateRectangleArea.dll
