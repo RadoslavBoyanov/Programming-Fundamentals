@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.exe
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.deps.json
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.runtimeconfig.json
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.dll
+C:\Users\user\source\repos\methods\Mathoperations\bin\Debug\net5.0\Mathoperations.pdb
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.AssemblyInfo.cs
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.dll
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\refint\Mathoperations.dll
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.pdb
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\Mathoperations.genruntimeconfig.cache
+C:\Users\user\source\repos\methods\Mathoperations\obj\Debug\net5.0\ref\Mathoperations.dll
