@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.exe
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.deps.json
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.runtimeconfig.json
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.dll
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net5.0\SmallestofThreeNumbers.pdb
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.dll
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\refint\SmallestofThreeNumbers.dll
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.pdb
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\SmallestofThreeNumbers.genruntimeconfig.cache
+C:\Users\user\source\repos\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net5.0\ref\SmallestofThreeNumbers.dll
