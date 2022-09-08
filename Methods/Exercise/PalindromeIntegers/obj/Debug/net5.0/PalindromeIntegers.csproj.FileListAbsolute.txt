@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.exe
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.deps.json
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.json
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.dll
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.pdb
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.dll
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\refint\PalindromeIntegers.dll
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.pdb
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.genruntimeconfig.cache
+C:\Users\user\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\ref\PalindromeIntegers.dll
