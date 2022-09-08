@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.exe
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.deps.json
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.runtimeconfig.json
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.dll
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\bin\Debug\net5.0\AddandSubtract.pdb
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.dll
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\refint\AddandSubtract.dll
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.pdb
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\AddandSubtract.genruntimeconfig.cache
+C:\Users\user\source\repos\MethodsExercise\AddandSubtract\obj\Debug\net5.0\ref\AddandSubtract.dll
