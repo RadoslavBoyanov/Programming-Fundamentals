@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.exe
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.deps.json
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.runtimeconfig.json
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.runtimeconfig.dev.json
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.dll
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\bin\Debug\net5.0\TribonacciSequence.pdb
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.AssemblyInfo.cs
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.dll
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\refint\TribonacciSequence.dll
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.pdb
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\TribonacciSequence.genruntimeconfig.cache
+C:\Users\user\source\repos\methodsMoreExercise\TribonacciSequence\obj\Debug\net5.0\ref\TribonacciSequence.dll
