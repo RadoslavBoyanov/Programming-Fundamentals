@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.exe
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.deps.json
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.runtimeconfig.json
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.runtimeconfig.dev.json
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.dll
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.pdb
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.AssemblyInfo.cs
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.dll
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\refint\CenterPoint.dll
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.pdb
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.genruntimeconfig.cache
+C:\Users\user\source\repos\methodsMoreExercise\CenterPoint\obj\Debug\net5.0\ref\CenterPoint.dll
