@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.exe
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.deps.json
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.dll
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\bin\Debug\net5.0\1SumAdjacentEqualNumbers.pdb
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.dll
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\refint\1SumAdjacentEqualNumbers.dll
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.pdb
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\1SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\user\source\repos\LabLists\1SumAdjacentEqualNumbers\obj\Debug\net5.0\ref\1SumAdjacentEqualNumbers.dll

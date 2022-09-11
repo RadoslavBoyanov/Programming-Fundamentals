@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.exe
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.deps.json
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.runtimeconfig.json
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.runtimeconfig.dev.json
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.dll
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\bin\Debug\net5.0\02Gauss'Trick.pdb
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.AssemblyInfo.cs
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.dll
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\refint\02Gauss'Trick.dll
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.pdb
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\02Gauss'Trick.genruntimeconfig.cache
+C:\Users\user\source\repos\LabLists\02Gauss'Trick\obj\Debug\net5.0\ref\02Gauss'Trick.dll

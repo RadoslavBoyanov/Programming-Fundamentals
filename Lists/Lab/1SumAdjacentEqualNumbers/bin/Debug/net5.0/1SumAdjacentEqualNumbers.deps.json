@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "1SumAdjacentEqualNumbers/1.0.0": {
+        "runtime": {
+          "1SumAdjacentEqualNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1SumAdjacentEqualNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

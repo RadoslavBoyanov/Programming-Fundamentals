@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "02Gauss'Trick/1.0.0": {
+        "runtime": {
+          "02Gauss'Trick.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02Gauss'Trick/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
