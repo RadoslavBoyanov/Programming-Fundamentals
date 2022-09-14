@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.exe
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.deps.json
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.runtimeconfig.json
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.runtimeconfig.dev.json
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.dll
+C:\Users\user\source\repos\LabLists\04ListofProducts\bin\Debug\netcoreapp3.1\04ListofProducts.pdb
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.AssemblyInfo.cs
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.dll
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.pdb
+C:\Users\user\source\repos\LabLists\04ListofProducts\obj\Debug\netcoreapp3.1\04ListofProducts.genruntimeconfig.cache
