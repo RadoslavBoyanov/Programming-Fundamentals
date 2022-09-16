@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.exe
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.deps.json
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.runtimeconfig.json
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.runtimeconfig.dev.json
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.dll
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.pdb
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.AssemblyInfo.cs
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.dll
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.pdb
+C:\Users\user\source\repos\Lists Exercise\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.genruntimeconfig.cache
