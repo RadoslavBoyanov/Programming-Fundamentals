@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.exe
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.deps.json
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.dll
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\bin\Debug\netcoreapp3.1\01RandomizeWords.pdb
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.dll
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.pdb
+C:\Users\user\source\repos\ObjectsandClasses\01RandomizeWords\obj\Debug\netcoreapp3.1\01RandomizeWords.genruntimeconfig.cache
