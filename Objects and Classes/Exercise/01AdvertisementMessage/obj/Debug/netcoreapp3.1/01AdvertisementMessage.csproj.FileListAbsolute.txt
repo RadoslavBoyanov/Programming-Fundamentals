@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.exe
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.deps.json
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.dll
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\bin\Debug\netcoreapp3.1\01AdvertisementMessage.pdb
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.dll
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.pdb
+C:\Users\user\source\repos\ExerciseObjectAndClasses\01AdvertisementMessage\obj\Debug\netcoreapp3.1\01AdvertisementMessage.genruntimeconfig.cache
