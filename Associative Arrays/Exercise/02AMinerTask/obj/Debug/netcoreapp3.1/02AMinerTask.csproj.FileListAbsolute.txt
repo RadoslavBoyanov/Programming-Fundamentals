@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.exe
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.deps.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.genruntimeconfig.cache
