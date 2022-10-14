@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.exe
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.deps.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\bin\Debug\netcoreapp3.1\05Courses.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\05Courses\obj\Debug\netcoreapp3.1\05Courses.genruntimeconfig.cache

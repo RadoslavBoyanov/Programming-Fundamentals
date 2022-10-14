@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.exe
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.deps.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\bin\Debug\netcoreapp3.1\07CompanyUsers.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\07CompanyUsers\obj\Debug\netcoreapp3.1\07CompanyUsers.genruntimeconfig.cache

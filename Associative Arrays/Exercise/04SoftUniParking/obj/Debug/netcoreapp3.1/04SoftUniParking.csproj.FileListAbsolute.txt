@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.exe
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.deps.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.runtimeconfig.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\bin\Debug\netcoreapp3.1\04SoftUniParking.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.AssemblyInfo.cs
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.dll
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.pdb
+C:\Users\user\source\repos\ExerciseAssociativeArrays\04SoftUniParking\obj\Debug\netcoreapp3.1\04SoftUniParking.genruntimeconfig.cache
