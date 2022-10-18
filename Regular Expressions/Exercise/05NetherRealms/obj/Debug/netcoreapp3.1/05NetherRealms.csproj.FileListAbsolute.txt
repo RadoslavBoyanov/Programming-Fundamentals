@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.exe
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.deps.json
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.runtimeconfig.json
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.dll
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.pdb
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.AssemblyInfo.cs
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.dll
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.pdb
+C:\Users\user\source\repos\RegularExpressionsExe\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.genruntimeconfig.cache
