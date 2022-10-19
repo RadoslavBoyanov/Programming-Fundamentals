@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.exe
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.deps.json
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.runtimeconfig.json
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.dll
+C:\Users\user\source\repos\Exam Preparation\03Inventory\bin\Debug\netcoreapp3.1\03Inventory.pdb
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.dll
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.pdb
+C:\Users\user\source\repos\Exam Preparation\03Inventory\obj\Debug\netcoreapp3.1\03Inventory.genruntimeconfig.cache

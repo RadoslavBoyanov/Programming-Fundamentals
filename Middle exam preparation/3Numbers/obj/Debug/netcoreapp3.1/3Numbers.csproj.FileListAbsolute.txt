@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.exe
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.deps.json
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.runtimeconfig.json
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.dll
+C:\Users\user\source\repos\Exam Preparation\3Numbers\bin\Debug\netcoreapp3.1\3Numbers.pdb
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.dll
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.pdb
+C:\Users\user\source\repos\Exam Preparation\3Numbers\obj\Debug\netcoreapp3.1\3Numbers.genruntimeconfig.cache

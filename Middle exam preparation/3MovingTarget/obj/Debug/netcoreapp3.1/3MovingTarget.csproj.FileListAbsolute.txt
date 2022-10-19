@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.exe
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.deps.json
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.runtimeconfig.json
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.dll
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\bin\Debug\netcoreapp3.1\3MovingTarget.pdb
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.dll
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.pdb
+C:\Users\user\source\repos\Exam Preparation\3MovingTarget\obj\Debug\netcoreapp3.1\3MovingTarget.genruntimeconfig.cache

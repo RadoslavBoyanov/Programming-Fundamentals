@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.exe
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.deps.json
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.runtimeconfig.json
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.dll
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1Guinea Pig.pdb
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.dll
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.pdb
+C:\Users\user\source\repos\Exam Preparation\Problem 1Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1Guinea Pig.genruntimeconfig.cache
